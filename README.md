@@ -1,6 +1,5 @@
-# SpeechT5-finetune
+# SpeechT5-finetuning
 
-# Regional Language TTS Fine-tuning
 
 This repository contains code and instructions for fine-tuning [Microsoft SpeechT5]([url](https://huggingface.co/microsoft/speecht5_tts)) model for Hindi and English. The finetuned model is available here on Hugging Face: https://huggingface.co/clayton07/speecht5_finetuned_hindi_mono
 
